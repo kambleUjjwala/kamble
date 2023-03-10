@@ -1,0 +1,39 @@
+
+
+
+.bg2{
+    background: #023b5e !important;
+}
+
+
+.mshow{
+    display:none;
+}
+.mhide{
+    display:block;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 680px) {
+   
+   
+    .mshow{
+    display: block;
+}
+.mhide{
+    display:none;
+}
+
+}
+
+
+
+

@@ -1,0 +1,62 @@
+.maxtempWidth{
+  max-width: 405px;
+}
+.nav > li > a {
+         position: relative;
+         display: block;
+         padding: 14px 14px !important;
+         }
+         .npf_chatbots {
+         z-index: 9999999999 !important;
+         }
+         .indicator {
+         z-index: 2018999999 !important;
+         }
+         .spothubform {
+         padding: 0px 0px 0px 40px;
+         }
+         .conatctblock {
+         display: inline-flex;
+         }
+         .contactfont {
+         margin-top: 4em;
+         border: 1px solid white;
+         padding: 6% 6%;
+         width: 147%;
+         margin-left: -41%;
+         }
+		 .mobahide{
+         display:block;
+         }
+         .mobashow{
+         display:none;
+         }
+         .conMob{
+         display:none!important;
+         }
+       .mshow {
+    display: none;
+}
+         @media only screen and (max-width: 680px){
+         .spothubform {
+         padding: 0px 0px 0px 18px;
+         } 
+		 .navbar-inverse .navbar-toggle {
+         border-color: #023b5e!important ;
+         }
+         .mobahide{
+         display:none;
+         }
+         .mobashow{
+         display:block;
+         }
+         .logo1{
+         width:50%;
+         }
+         .conMob{
+         display:block !important;
+         }
+		 .mshow {
+    display: block;
+}
+		 }
